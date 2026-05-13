@@ -1,0 +1,25 @@
+code,name,teacher,class,weekly_hours,enrolled
+BLG-102,Veri Yapýlarý,Tuncay AYDOÐAN,1.Sýnýf,3.5,120
+BLG-116,Python Programlama,Ahmet BESTAMI,1.Sýnýf,3,120
+BLG-118,Temel Elektrik ve Elektronik,Burhan DUMAN,1.Sýnýf,2.5,120
+ING-102,Ýngilizce II,Yabancý Diller Yüksekokulu,1.Sýnýf,2,120
+MTB-002,Kalkülüs II,Hüseyin Veli DÖNDÜREN,1.Sýnýf,4,120
+MTB-004,Ayrýk Matematik,Gözde ÖZKAN TÖKEL,1.Sýnýf,2,120
+MTB-006,Fizik II,Fizik Bölümü,1.Sýnýf,4,120
+BLG-106,Web Teknolojilerine Giriþ,Kýyas KAYAALP,1.Sýnýf,3,120
+BLG-204,Algoritmalar,Cevriye ALTINTAÞ,2.Sýnýf,3,90
+BLG-224,Sayýsal Sistem Tasarýmý,Kýyas KAYAALP,2.Sýnýf,3.5,90
+BLG-228,Bilgisayar Programlama II,Serdar PAÇACI,2.Sýnýf,3.5,90
+ING-204,Mesleki Yabancý Dil II,Yabancý Diller Yüksekokulu,2.Sýnýf,2,90
+MTB-008,Sayýsal Çözümleme,Gözde ÖZKAN TÖKEL,2.Sýnýf,2.5,90
+MTB-010,Olasýlýk ve Ýstatistik,Sinan UÐUZ,2.Sýnýf,3,90
+UOS-802,Üniversite Ortak Seçmeli II,Ýlgili Birim Hocalarý,2.Sýnýf,2,50
+BLG-304,Biçimsel Diller ve Otomata,Burhan DUMAN,3.Sýnýf,3,70
+BLG-308,Yazýlým Mühendisliði,Cevriye ALTINTAÞ,3.Sýnýf,3,70
+BLG-310,Bilgisayar Mimarisi ve Organizasyonu,Tuncay AYDOÐAN,3.Sýnýf,3.5,70
+BLG-312,Bilgisayar Aðlarý,Ahmet Ali SÜZEN,3.Sýnýf,3.5,70
+BLG-340,Bilgisayar Mühendisliðinde Proje Uygulamalarý,Tuncay AYDOÐAN,3.Sýnýf,1.5,70
+TKF-300,Disiplinler Arasý Proje Hazýrlama,Teknoloji Fakültesi,3.Sýnýf,1.5,70
+TKF-410,Bitirme Tezi II,Tez Danýþmaný,4.Sýnýf,1,40
+TKF-412,Ýþletmede Mesleki Eðitim,Fakülte Koordinatörlüðü,4.Sýnýf,5,40
+TKF-416,Staj,Staj Komisyonu,4.Sýnýf,0,0
