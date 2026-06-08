@@ -1,0 +1,63 @@
+code,name,teacher,class,weekly_hours,enrolled,department,course_type,tur,lab_hours
+BLG-102,Veri Yapıları,Prof. Dr. Tuncay AYDOĞAN,1.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-102-LAB,Veri Yapıları (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,1.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-106,Web Teknolojilerine Giriş,Dr. Öğr. Üyesi Cevriye ALTINTAŞ,1.Sınıf,3.0,50.0,seçimlik,seçimlik,S,0.0
+BLG-116,Python Programlama,Doç. Dr. Sinan UĞUZ,1.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-118,Temel Elektrik ve Elektronik,Dr. Öğr. Üyesi Burhan DUMAN,1.Sınıf,2.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-118-LAB,Temel Elektrik ve Elektronik (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,1.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-120,İçerik Yönetim Sistemleri,Dr. Öğr. Üyesi Gamzepelin AKSOY,1.Sınıf,3.0,50.0,seçimlik,seçimlik,S,0.0
+MTB-002,Kalkülüs II,Dr. Öğr. Üyesi Hüseyin Veli DÖNDÜREN,1.Sınıf,4.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+MTB-004,Ayrık Matematik,Prof. Dr. Gözde ÖZKAN TÜKEL,1.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+MTB-006,Fizik II,Dr. Öğr. Üyesi Mehmet UZUNKAVAK,1.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+MTB-006-LAB,Fizik II (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,1.Sınıf,2.0,,bilgisayar mühendisliği,lab,L,2.0
+BLG-204,Algoritmalar,Dr. Öğr. Üyesi Cevriye ALTINTAŞ,2.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-212,Algılama ve Veri Toplama,Dr. Öğr. Üyesi Burhan DUMAN,2.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+BLG-222,Sanal ve Artırılmış Gerçeklik,Doç. Dr. Ahmet Ali SÜZEN,2.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+BLG-226,Almanca II,Öğretim Görevlisi Erdal ÖRDEK,2.Sınıf,2.0,10.0,seçimlik,seçimlik,S 1,0.0
+BLG-230,İngilizce Konuşma Becerileri,Doç. Dr. Serap ERGÜN,2.Sınıf,2.0,40.0,seçimlik,seçimlik,S 1,0.0
+BLG-232,Etkili ve Başarılı İletişim,Doç. Dr. Esra VONA KURT,2.Sınıf,2.0,40.0,seçimlik,seçimlik,S 1,0.0
+BLG-234,Doğal Dil İşleme,Dr. Öğr. Üyesi Gamzepelin AKSOY,2.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+ING-204,Mesleki Yabancı Dil II,Doç. Dr. Serap ERGÜN,2.Sınıf,2.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+MTB-008,Sayısal Çözümleme,Prof. Dr. Gözde ÖZKAN TÜKEL,2.Sınıf,2.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+MTB-010,Olasılık ve İstatistik,Doç. Dr. Sinan UĞUZ,2.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+UOS-802,Üniversite Ortak Seçmeli II,Öğrenciler Seçecekler,2.Sınıf,2.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-224,Sayısal Sistem Tasarımı,Doç. Dr. Kıyas KAYAALP,2.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-224-LAB,Sayısal Sistem Tasarımı (A Grubu) (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,2.Sınıf-A,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-224-LAB,Sayısal Sistem Tasarımı (B Grubu) (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,2.Sınıf-B,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-228,Bilgisayar Programlama II,Dr. Öğr. Üyesi Serdar PAÇACI,2.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-228-LAB,Bilgisayar Programlama II (A Grubu) (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,2.Sınıf-A,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-228-LAB,Bilgisayar Programlama II (B Grubu) (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,2.Sınıf-B,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-304,Biçimsel Diller ve Otomata,Dr. Öğr. Üyesi Burhan DUMAN,3.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-308,Yazılım Mühendisliği,Dr. Öğr. Üyesi Cevriye ALTINTAŞ,3.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-310,Bilgisayar Mimarisi ve Organizasyonu,Prof. Dr. Tuncay AYDOĞAN,3.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-310-LAB,Bilgisayar Mimarisi ve Organizasyonu (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,3.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-312,Bilgisayar Ağları,Doç. Dr. Ahmet Ali SÜZEN,3.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-312-LAB,Bilgisayar Ağları (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,3.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-324,Bilgi Güvenliği ve Kriptografi,Doç. Dr. Ahmet Ali SÜZEN,3.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+BLG-326,Görüntü İşlemeye Giriş,Doç. Dr. Kıyas KAYAALP,3.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+BLG-330,Yazılım Tasarım ve Mimarisi,Dr. Öğr. Üyesi Serdar PAÇACI,3.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+BLG-340,Bilgisayar Mühendisliğinde Proje Uygulamaları,Tüm öğretim üyeleri,3.Sınıf,1.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-340-LAB,Bilgisayar Mühendisliğinde Proje Uygulamaları (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,3.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-344,Üretken Yapay Zeka,Doç. Dr. Abdurrahman GÜMÜŞ,3.Sınıf,3.0,30.0,seçimlik,seçimlik,S,0.0
+TKF-300,Disiplinler Arası Proje Hazırlama,Doç. Dr. Serap ERGÜN,3.Sınıf,1.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+TKF-300-LAB,Disiplinler Arası Proje Hazırlama (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,3.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-402-LAB,Bitirme Tezi II (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,4.Sınıf,2.0,,bilgisayar mühendisliği,lab,L,2.0
+BLG-407,Makine Öğrenmesi,Doç. Dr. Sinan UĞUZ,4.Sınıf,3.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-407-LAB,Makine Öğrenmesi (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,4.Sınıf,1.0,,bilgisayar mühendisliği,lab,L,1.0
+BLG-421,İleri Java Programlama,Dr. Öğr. Üyesi Cevriye ALTINTAŞ,4.Sınıf,3.0,10.0,seçimlik,seçimlik,S,0.0
+BLG-423,Mikroservisler,Dr. Öğr. Üyesi Serdar PAÇACI,4.Sınıf,3.0,10.0,seçimlik,seçimlik,S,0.0
+BLG-431,Sızma Testleri,Doç. Dr. Ahmet Ali SÜZEN,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 1,0.0
+BLG-433,Derin Öğrenmeye Giriş,Doç. Dr. Kıyas KAYAALP,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 1,0.0
+BLG-435,Ajan Tabanlı Yapay Zeka Sistemleri,Doç. Dr. Abdurrahman GÜMÜŞ,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 1,0.0
+BLG-439,Yapay Zekada Güncel Uygulamalar,Dr. Öğr. Üyesi Gamzepelin AKSOY,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 1,0.0
+BLG-441,Endüstri 4.0 ve Dijital Dönüşüm,Prof. Dr. Tuncay AYDOĞAN,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 2,0.0
+BLG-443,Ağ ve Sistem Yönetimi,Doç. Dr. Serap ERGÜN,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 2,0.0
+BLG-449,Nesnelerin İnterneti,Dr. Öğr. Üyesi Burhan DUMAN,4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 2,0.0
+BLG-453,Gömülü Sistem Programlama,Dr. Öğr. Üyesi Ali ŞENTÜRK (EEM ile birleştirilecek),4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 2,0.0
+BLG-459,Mühendislik Ekonomisi,Prof. Dr. Reşat SELBAŞ (Makine Mühendisliği bölümü ile birleştirilecek),4.Sınıf,3.0,12.0,seçimlik,seçimlik,S 2,0.0
+BLG-465,Yazılım Doğrulama ve Geçerleme,Doç. Dr. Serap ERGÜN,4.Sınıf,3.0,10.0,seçimlik,seçimlik,S,0.0
+TKF-409-LAB,Bitirme Tezi I (Laboratuvar),Arş. Gör. Hüseyin Furkan ZENGİN,4.Sınıf,2.0,,bilgisayar mühendisliği,lab,L,2.0
+TKF-412,İşletmede Mesleki Eğitim,Tüm öğretim üyeleri,4.Sınıf,5.0,,bilgisayar mühendisliği,zorunlu,Z,0.0
+BLG-801,Bilişim Teknolojilerine Giriş,Dr. Öğr. Üyesi Gamzepelin AKSOY,ÜOS Seçmeli,2.0,,üos seçmeli,seçimlik,S,0.0
+BLG-802,Web Teknolojileri,Dr. Öğr. Üyesi Cevriye ALTINTAŞ,ÜOS Seçmeli,2.0,,üos seçmeli,seçimlik,S,0.0
+UOS-8014,Teknoloji ve Toplum:Yapay Zeka Çağında Etik ve Sosyal Dönüşüm,Doç. Dr. Serap ERGÜN,ÜOS Seçmeli,2.0,,üos seçmeli,seçimlik,S,0.0
